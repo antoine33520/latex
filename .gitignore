@@ -1,0 +1,10 @@
+latex.code-workspace
+.vscode
+__latexindent_temp.tex
+FI-Antoine.pdf
+FI-Antoine.out
+FI-Antoine.log
+FI-Antoine.fls
+FI-Antoine.fdb_latexmk
+FI-Antoine.aux
+FI-Antoine.synctex.gz
